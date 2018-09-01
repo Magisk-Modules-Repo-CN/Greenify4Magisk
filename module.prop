@@ -3,6 +3,6 @@ name=Greenify4Magisk
 version=v4.2.0-1
 versionCode=54
 author=Abacate123
-description=A very simple module to make Greenify work as a privileged app, to achieve a faster hibernation performance, systemlessly.
+description=一个非常简单的模块，使绿色守护作为一个特权应用工作，以实现更快的休眠性能，Systemlessly.
 support=https://forum.xda-developers.com/apps/magisk/module-greenify4magisk-t3606277
 minMagisk=1530
